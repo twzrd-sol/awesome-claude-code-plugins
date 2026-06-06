@@ -132,7 +132,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [react-native-dev](./plugins/react-native-dev)
 - [vision-specialist](./plugins/vision-specialist)
 - [web-dev](./plugins/web-dev)
-- **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** — Solana-native x402 trust scoring MCP server. Free preflight trust checks + paid signed V5 receipts for AI agent interactions.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Solana-native x402 trust scoring MCP server. Free preflight trust checks + paid signed V5 receipts for AI agent interactions.
 
 ### Documentation
 - [analyze-codebase](./plugins/analyze-codebase)
